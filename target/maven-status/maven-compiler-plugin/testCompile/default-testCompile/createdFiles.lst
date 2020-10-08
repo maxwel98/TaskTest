@@ -1,0 +1,5 @@
+org\tasktest\page\SeekPage.class
+org\tasktest\LoginTest.class
+org\tasktest\page\LoginPage.class
+org\tasktest\conf\ConfProperties.class
+org\tasktest\page\MailPage.class
